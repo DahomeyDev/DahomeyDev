@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DahomeyDev
 - 👀 I’m interested in becoming a developer ^__^
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and looking forward to learn some Python ASAP
 - 💞️ I’m looking to collaborate on any project where I can learn as much as possible
 - 📫 How to reach me: dahomey.dev@gmail.com
 
