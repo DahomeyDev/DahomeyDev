@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DahomeyDev
-- 👀 I’m working on becoming a developer ^__^
-- 🌱 I’m currently studying a web apps development course 
-- 💞️ I’m looking to learn and improve on my tech skilss
+- 👀 I’m a Junior Developer ^__^
+- 🌱 I’m currently working on a nice company and learning a lot 
+- 💞️ I´m looking forward to keep learning through side projects 
 - 📫 How to reach me: dahomey.dev@gmail.com
 
 <!---
